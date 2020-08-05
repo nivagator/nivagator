@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Gavin 
+My name is Gavin  
+
 📫: hello@gavingreer.com
 
 <!--
