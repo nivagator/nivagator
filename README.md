@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 My name is Gavin 
-```
-gavin|nivag
-nivag-ator
-Nivagator
-```
 
 
 <!--
