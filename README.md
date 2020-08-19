@@ -4,8 +4,8 @@ My name is Gavin
 
 📫: hello@gavingreer.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivagator)](https://github.com/anuraghazra/github-readme-stats)
 [![Nivagator's github stats](https://github-readme-stats.vercel.app/api?username=nivagator&show_icons=true&hide=issues,contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivagator)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nivagator/nivagator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
